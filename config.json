@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordender",
+        "uuid": 2242536,
+        "checksum": "icybao"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
